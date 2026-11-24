@@ -1,0 +1,5 @@
+{
+  "name": "retro-95",
+  "owner": { "name": "viniciusbfv-afk" },
+  "plugins": [{ "name": "retro-95", "source": "./" }]
+}
